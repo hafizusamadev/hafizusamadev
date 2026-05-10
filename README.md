@@ -53,7 +53,7 @@ I am a Computer Science student and a Full Stack Developer with a strong passion
 
 <h3 align="center"> Connect with me:</h3>
 <p align="center">
-       <a href="https://github.com/usamahafiz" target="_blank">
+       <a href="https://github.com/hafizusamadev" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
   <a href="https://www.linkedin.com/in/hafiz-usama-38a9922b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -67,14 +67,14 @@ I am a Computer Science student and a Full Stack Developer with a strong passion
 ## GitHub Stats:
 <p align="center">
     <a href="https://github.com/hafizusamadev">
-        <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=usamahafiz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hafizusamadev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
         <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usamahafiz&langs_count=12&layout=compact&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/usamahafiz"> 
-        <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=usamahafiz&theme=algolia&hide_border=true" /> 
+    <a href="https://github.com/hafizusamadev"> 
+        <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizusamadev&theme=algolia&hide_border=true" /> 
     </a>  
 </p>
 
@@ -82,7 +82,7 @@ I am a Computer Science student and a Full Stack Developer with a strong passion
 
 <!-- 
 <div align="center">
-    <a href="https://github.com/usamahafiz">
+    <a href="https://github.com/hafizusamadev">
         <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
     </a>
 </div> 
