@@ -68,7 +68,7 @@ I am a Computer Science student and a Full Stack Developer with a strong passion
 <p align="center">
     <a href="https://github.com/hafizusamadev">
         <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hafizusamadev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usamahafiz&langs_count=12&layout=compact&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
+        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizusamadev&langs_count=12&layout=compact&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 
