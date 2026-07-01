@@ -8,7 +8,7 @@ I am a Computer Science student and a Full Stack Developer with a strong passion
 -  𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Full-stack development and tackling complex AI & ML challenges
 -  2026 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
 -  𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
--  All of my projects are available at [My Portfolio](https://hafizusamaportfolio.netlify.app/)
+-  All of my projects are available at [My Portfolio](https://hafizmuhammadusamaportfolio.vercel.app/)
 -  Reach me at **hafizmuhammadusama664@gmail.com**  
 -  𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
 
