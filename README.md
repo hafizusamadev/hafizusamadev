@@ -1,89 +1,113 @@
 <h1 align="center">Hi 👋, I'm Hafiz Muhammad Usama</h1>
-<h3 align="center">A Passionate Full Stack Developer </h3>
 
+<h3 align="center">Full-Stack Software Engineer | AI & Intelligent Systems</h3>
 
-I am a Computer Science student and a Full Stack Developer with a strong passion for problem-solving. I am always eager to explore and learn about innovative technologies to expand my skillset.
-
--  𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴: Web and Mobile App Development
--  𝗣𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗔𝗯𝗼𝘂𝘁: Full-stack development and tackling complex AI & ML challenges
--  2026 𝗚𝗼𝗮𝗹𝘀: Elevating Open Source Contributions
--  𝗔𝗰𝘁𝗶𝘃𝗲 𝗜𝗻: Participating in coding competitions & hackathons
--  All of my projects are available at [My Portfolio](https://hafizmuhammadusamaportfolio.vercel.app/)
--  Reach me at **hafizmuhammadusama664@gmail.com**  
--  𝗖𝗼𝗻𝘁𝗮𝗰𝘁: Don't hesitate to reach out & let's connect and start a conversation.
+<p align="center">
+  Building scalable web applications, SaaS products, and intelligent software solutions.
+</p>
 
 ---
 
-# Basic Skills
+## About Me
 
+I’m a Computer Science undergraduate and Full-Stack Software Engineer focused on building **scalable, user-focused web applications and SaaS solutions**.
 
-<h3 align="center"> Frontend:</h3> <p align="center"> <a href="https://github.com/usamahafiz" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a> <a href="https://github.com/usamahafiz" target="_blank"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a> <a href="https://getbootstrap.com" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a> <a href="https://tailwindcss.com/" target="_blank"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a> <a href="https://www.javascript.com/" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a> <a href="https://reactnative.dev/" target="_blank"><img alt="React Native" src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></a>  </p>
+My primary experience is across the **JavaScript/TypeScript ecosystem**, with a strong focus on React.js, Next.js, Node.js, Express.js, MongoDB, and Supabase. I work across the full development stack, from responsive interfaces and application architecture to backend APIs, databases, authentication, security, and third-party integrations.
 
-<h3 align="center">Backend:</h3>
-<p align="center">
-  <a href="https://nodejs.org/" target="_blank">
-    <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  </a><a href="https://expressjs.com/" target="_blank">
-    <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  </a>
-</p>
+I also have hands-on experience integrating **Artificial Intelligence, Machine Learning, Deep Learning, and LLM-based technologies** into practical applications. I’m particularly interested in intelligent software, automation, AI-powered applications, and emerging technologies that can solve real-world problems.
 
-<h3 align="center">Databases:</h3>
-<p align="center">
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" />
-  </a>
-  <a href="https://supabase.com/" target="_blank">
-    <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  </a>
-</p>
-
-<h3 align="center"> Languages:</h3> <p align="center"> <a href="https://github.com/usamahafiz" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a> <a href="https://www.cplusplus.com/" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a> <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="https://www.java.com/" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /></a> </p>
-
-<h3 align="center">🛠️ Others:</h3> <p align="center"> <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a> <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a> <a href="https://www.npmjs.com/" target="_blank"><img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></a> <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></a> <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" /></a> <a href="https://www.netlify.com/" target="_blank"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a> <a href="https://vitejs.dev/" target="_blank"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a> <a href="https://discord.com/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a> <a href="https://stackoverflow.com/" target="_blank"><img alt="StackOverflow" src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a> </p>
-
+I value **clean architecture, maintainable code, scalability, security, and continuous learning**, and I enjoy turning ideas into practical software products.
 
 ---
 
-<h3 align="center"> Connect with me:</h3>
+## Tech Stack
+
+### Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+</p>
+
+### Databases & Cloud
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge" />
+</p>
+
+### Tools & Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
+</p>
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-       <a href="https://github.com/hafizusamadev" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-  <a href="https://www.linkedin.com/in/hafiz-usama-38a9922b0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/29587432/hafiz-usama" target="_blank">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  <a href="https://github.com/hafizusamadev">
+    <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hafizusamadev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizusamadev&langs_count=12&layout=compact&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
   </a>
-  <a href="https://www.facebook.com/people/Muhammad-Usama/pfbid0Bdm5cP4EBnLG6LCKXWNS2mWkqpgjuVwK11vcbdQw6bQNmZmvJN7qnyB7pz8mDv9Dl/?mibextid=ZbWKwL" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
-
-
-## GitHub Stats:
-<p align="center">
-    <a href="https://github.com/hafizusamadev">
-        <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hafizusamadev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hafizusamadev&langs_count=12&layout=compact&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/hafizusamadev"> 
-        <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizusamadev&theme=algolia&hide_border=true" /> 
-    </a>  
+  <a href="https://github.com/hafizusamadev">
+    <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=hafizusamadev&theme=algolia&hide_border=true"/>
+  </a>
 </p>
 
-<br>
+---
 
-<!-- 
-<div align="center">
-    <a href="https://github.com/hafizusamadev">
-        <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
-    </a>
-</div> 
--->
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://hafizmuhammadusama.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://github.com/hafizusamadev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hafiz-usama-38a9922b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:hafizmuhammadusama664@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building scalable software and exploring intelligent technologies.</i>
+</p>
