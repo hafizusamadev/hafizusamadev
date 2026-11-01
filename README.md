@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Software Engineer | AI & Intelligent Systems</h3>
 
 <p align="center">
-  Building scalable web applications, SaaS products, and intelligent software solutions.
+  Building scalable web applications, SaaS products, and intelligent software solutions
 </p>
 
 ---
